@@ -1,6 +1,3 @@
-import java.util.LinkedList;
-import java.util.Queue;
-
 class MyStack {
     private Queue<Integer> queue1;
     private Queue<Integer> queue2;
